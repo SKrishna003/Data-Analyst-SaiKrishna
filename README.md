@@ -51,6 +51,7 @@ Based on the descriptive analysis, the following recommendations were made:
 - Targeted Marketing and Services: The licensing department could provide more targeted services and marketing based on the business size to improve renewal rates.
 - Policy Adjustments: Adjust fee structures to ensure fairness and provide incentives for businesses to maintain active status over a longer period.
 ## Tools and Technologies:
+ (https://github.com/SKrishna003/Data-Analyst-SaiKrishna/blob/main/Consulting%20Business-Drawio.jpg)
  
 AWS Services Used:
 1.	Amazon S3: To store the raw, processed, and cleaned datasets, S3 bucketsa re 
