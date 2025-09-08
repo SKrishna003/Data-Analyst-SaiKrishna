@@ -51,7 +51,6 @@ Based on the descriptive analysis, the following recommendations were made:
 - Targeted Marketing and Services: The licensing department could provide more targeted services and marketing based on the business size to improve renewal rates.
 - Policy Adjustments: Adjust fee structures to ensure fairness and provide incentives for businesses to maintain active status over a longer period.
 ## Tools and Technologies:
- (https://github.com/SKrishna003/Data-Analyst-SaiKrishna/blob/main/Consulting%20Business-Drawio.jpg)
  
 AWS Services Used:
 1.	Amazon S3: To store the raw, processed, and cleaned datasets, S3 bucketsa re 
@@ -64,6 +63,8 @@ AWS Services Used:
 5.	AWS Lambda: For automating ETL (Extract, Transform, Load) tasks in data pipelines.
 6.	AWS Identity and Access Management (IAM): For secure access control.
 7.	AWS Key Management Service (KMS): To encrypt data stored in S3, ensuring security compliance.
+  ![image alt](https://github.com/SKrishna003/Data-Analyst-SaiKrishna/blob/main/Consulting%20Business-Drawio.jpg)
+  
 ## Deliverables:
 1. Detailed Report:
  - A comprehensive report summarizing the entire descriptive analysis process, insights, and findings.
